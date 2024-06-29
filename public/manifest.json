@@ -22,7 +22,7 @@
   },
   "type": "standalone",
   "ui": {
-    "url": "https://chat-plugin-clock-time.theforage.cn",
+    "url": "https://chat-plugin-watch-time.theforage.cn",
     "height": 350,
     "width": 400
   },
