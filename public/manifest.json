@@ -1,5 +1,5 @@
 {
-  "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
+  "$schema": "../node_modules/@aipmorg/chat-plugin-sdk/schema.json",
   "api": [
     {
       "name": "getCurrentTime",
@@ -10,19 +10,19 @@
       }
     }
   ],
-  "author": "LobeHub",
-  "createAt": "2023-11-01",
-  "homepage": "https://github.com/lobehub/chat-plugin-clock-time",
-  "identifier": "clock-time",
+  "author": "AiPMHub",
+  "createAt": "2024-06-29",
+  "homepage": "https://github.com/aipmhub/chat-plugin-clock-time",
+  "identifier": "watch_time",
   "meta": {
-    "avatar": "🕐",
-    "tags": ["clock", "time"],
-    "title": "Clock Time",
+    "avatar": "⌚",
+    "tags": ["watch", "time"],
+    "title": "Watch Time",
     "description": "Display a clock to show current time"
   },
   "type": "standalone",
   "ui": {
-    "url": "https://clock-time.chat-plugin.lobehub.com",
+    "url": "https://chat-plugin-clock-time.theforage.cn",
     "height": 350,
     "width": 400
   },

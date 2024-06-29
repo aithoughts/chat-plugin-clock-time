@@ -1,4 +1,4 @@
-import { ThemeProvider } from '@lobehub/ui';
+import { ThemeProvider } from '@aipmui/ui';
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 

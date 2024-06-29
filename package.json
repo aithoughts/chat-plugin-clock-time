@@ -1,9 +1,9 @@
 {
-  "name": "@lobehub/chat-plugin-clock-time",
+  "name": "@aipmorg/chat-plugin-clock-time",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/lobehub/chat-plugin-clock-time",
-  "repository": "https://github.com/lobehub/chat-plugin-clock-time.git",
+  "homepage": "https://github.com/aipmhub/chat-plugin-clock-time",
+  "repository": "https://github.com/aipmhub/chat-plugin-clock-time.git",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
@@ -17,7 +17,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@lobehub/ui": "^1.108.2",
+    "@aipmui/ui": "^1.108.2",
     "antd": "^5",
     "antd-style": "^3.5.1",
     "react": "^18.2.0",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^17",
-    "@lobehub/lint": "latest",
+    "@aipmorg/lint": "latest",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react-swc": "^3.3.2",

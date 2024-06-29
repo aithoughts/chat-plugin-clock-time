@@ -10,7 +10,7 @@
     }
   ],
   "type": "standalone",
-  "identifier": "date-time-dev",
+  "identifier": "watch_time",
   "ui": {
     "url": "http://localhost:5173/",
     "height": 350,
